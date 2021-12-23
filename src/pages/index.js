@@ -13,7 +13,7 @@ const MainStyle = styled.main`
     text-align: center;
     margin: 10px auto;
   }
-  img {
+  img, picture {
     width: 500px;
     margin: 0 auto;
   }
