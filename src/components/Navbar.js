@@ -113,7 +113,7 @@ const NavBar = () => {
             <NavLinks open={show}>
                 <Link to="/" onClick={closeNavBar}>Home</Link>
                 <Link to="/about" onClick={closeNavBar}>About</Link>
-                <Link to="/home" onClick={closeNavBar}>Blog</Link>
+                <Link to="/blog" onClick={closeNavBar}>Blog</Link>
             </NavLinks>
         </Nav>
     )
