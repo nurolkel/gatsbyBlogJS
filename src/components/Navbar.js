@@ -7,7 +7,9 @@ const Nav = styled.nav`
     justify-content: space-around;
     align-items: center;
     height: 10vh;
+    box-sizing: border-box;
     a {
+        padding: 0 10px;
         flex: 1;
         text-decoration: none;
         color: rebeccapurple;
